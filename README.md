@@ -6,7 +6,6 @@
 
 
 
-
 ### Education
 *  AEC • Développeur en mégadonnées (Big Data) LEA.C0 • Bois-de-Boulogne College • 2024
 *  AEC • Spécialiste en tests de logiciel (LEA.BM) • Bois-de-Boulogne College • 2012
