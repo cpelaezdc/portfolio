@@ -2,6 +2,9 @@
 
 ### Projects
 
+*  [canada-sales-data-engineering](https://github.com/cpelaezdc/canada-sales-data-engineering-project) - Airflow • Python • PosgreSQL
+
+
 
 
 ### Education
