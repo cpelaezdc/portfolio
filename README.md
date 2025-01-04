@@ -15,7 +15,8 @@ I am currently working towards a transition into Data Engineering. With over 18 
 
 | Project Name | Skills Used |
 |---|---|
-| **[canada-sales-data-engineering](https://cpelaezdc.github.io/canada-sales-manufacturing/)** | Airflow • Python • Pandas • PosgreSQL • PowerBI • Docker |
+| **[Canada Sales Manufacturing](https://cpelaezdc.github.io/canada-sales-manufacturing/)** | CSV • Airflow • Python • Pandas • PosgreSQL • PowerBI • Docker |
+| **[Healthcare Provider Costs](https://cpelaezdc.github.io/Healthcare-Provider-Costs/)** | APIs • NIFI • PosgreSQL • PowerBI • Docker |
 
 ### Skills
 
