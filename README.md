@@ -6,7 +6,8 @@
 
 ### Summary
 
-Highly motivated and results-oriented Data Engineering professional with over 18 years of experience in the tech industry. Proven ability to develop, test, and automate solutions to ensure product quality. Skilled in Python, Apache Nifi, Apache Airflow, Docker, SQL databases, AWS, Azure, Git/GitHub, JSON, Confluence, and vbScript.
+I am currently working towards a transition into Data Engineering. With over 18 years in the tech industry, my core competencies lie in application support, developing, and testing and automation to ensure product quality. As a professional with a strong background in Quality Assurance; my previous experiences has honed my analytical skills, attention to detail, and problem-solving abilities, which are essential for Data Engineering.
+
 
 ### Projects
 
