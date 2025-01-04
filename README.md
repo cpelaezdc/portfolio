@@ -1,10 +1,8 @@
 ## Data Engineering
 
 **Contact**
-
-* Email: cpelaezd@gmail.com
-* Phone: +1 (514) 445-4095
-* LinkedIn: [LinkedIn](https://www.linkedin.com/in/carlos-m-pelaez)
+* ✉️ <a href="mailto:cpelaezd@gmail.com">cpelaezd@gmail.com</a> 
+* 🔗 <a href="https://www.linkedin.com/in/carlos-m-pelaez">LinkedIn</a>
 
 ### Summary
 
