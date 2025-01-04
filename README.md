@@ -44,3 +44,19 @@ Highly motivated and results-oriented Data Engineering professional with over 18
 * Prodentia Solutions inc. | Jan 2010 - Jun 2011
     * Developed and maintained 4D software programs, enhancing functionality and user experience.
     * Migrated comprehensive databases to 4D, ensuring seamless data integrity and performance.
+
+**Software Support Specialist**
+
+* Soluciones Fourgen S.A | Nov 2002 - Apr 2007
+    * Identified and fixed data integrity problems within the Informix database, ensuring data accuracy and reliability.
+    * Conducted thorough testing and analysis of point-of-sale (POS) systems software, ensuring optimal functionality and reliability.
+    * Supported retail staff and customers by troubleshooting and resolving software-related issues.
+    * Conducted comprehensive verification of software and data integrity for inventory management and retail systems, ensuring accuracy and reliability.
+
+**Education**
+
+* AEC • Développeur en mégadonnées (Big Data) LEA.C0 (2024) - Bois-de-Boulogne College
+* AEC • Spécialiste en tests de logiciel (LEA.BM) (2012) - Bois-de-Boulogne College
+* AEC • Oracle Development Applications (LEA.6V) (2009) - LaSalle, Montréal College
+* Baccalauréat • Ingénieur de Systèmes (Comparative Evaluation MIFI  - Génie Informatique) (2001) - Medellin University (Colombia)
+
