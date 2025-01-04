@@ -25,6 +25,11 @@ Highly motivated and results-oriented Data Engineering professional with over 18
 * Data Visualization: PowerBI
 * Collaboration Tools: Confluence
 
+### Certifications & Training
+
+* **🔗 <a href="https://www.linkedin.com/learning/certificates/dac1764aed8ff26eef6410d9aa188c5cf691420771202f5f0990dcb5d4280647?trk=share_certificate">Data Engineering Foundations Professional Certificate</a>** - Astronomer (2024)
+* **🔗 <a href="https://www.linkedin.com/learning/certificates/7690ef4acc7fb56dd810d9872c40457cba6821ae4c620775d417d36eb10646b9?trk=share_certificate">Python for Data Engineering</a>** - LinkedIn (2024)
+
 ### Professional History
 
 **Data Engineer (Internship)**
