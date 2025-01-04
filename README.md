@@ -1,15 +1,46 @@
-# Carlos Pelaez
+## Carlos Pelaez
 
 ### Projects
 
 *  [canada-sales-data-engineering](https://github.com/cpelaezdc/canada-sales-data-engineering-project) - Airflow • Python • PosgreSQL
 
+**Summary**
 
+Highly motivated and results-oriented Data Engineering professional with over 18 years of experience in the tech industry. Proven ability to develop, test, and automate solutions to ensure product quality. Skilled in Python, Apache Nifi, Apache Airflow, Docker, SQL databases, AWS, Azure, Git/GitHub, JSON, Confluence, and vbScript.
 
-### Education
-*  AEC • Développeur en mégadonnées (Big Data) LEA.C0 • Bois-de-Boulogne College • 2024
-*  AEC • Spécialiste en tests de logiciel (LEA.BM) • Bois-de-Boulogne College • 2012
-*  AEC • Oracle Development Applications (LEA.6V)	• La Salle College • 2009
-*  Baccalauréat • Ingénieur de Systèmes (Comparative Evaluation MIFI  - Génie Informatique) • Medellin University (Colombia) • 2001
+**Skills**
 
+* Programming Languages: Python, vbScript
+* Data Engineering Tools: Apache Nifi, Apache Airflow, Docker
+* Cloud Platforms: AWS, Azure
+* Databases: PostgreSQL, MySQL, SQLServer, Oracle
+* Version Control: Git/GitHub
+* Data Formats: JSON
+* Collaboration Tools: Confluence
 
+**Professional History**
+
+**Data Engineer (Internship)**
+
+* YULCOM Technologies | Oct 2024 - Dec 2024
+    * Developed comprehensive ETL solutions utilizing Apache NiFi.
+    * Designed and implemented data pipelines to ingest, transform, and load diverse data sources (JSON, databases) into target systems, ensuring data quality and consistency.
+    * Worked extensively with PostgreSQL and MySQL databases.
+    * Collaborated closely with stakeholders to understand data requirements and deliver actionable insights.
+    * Troubleshot and resolved data flow issues, enhancing overall system efficiency.
+
+**Senior Quality Control Analyst**
+
+* Eaton Corporation | Oct 2012 - Sep 2024
+    * Developed a new testing framework in Python for frontend and backend software testing.
+    * Developed and maintained the automated testing framework using TestComplete.
+    * Reported and documented software errors through rigorous manual testing.
+    * Executed comprehensive testing processes and analyzed results to ensure software quality.
+    * Created new test automations to improve the efficiency of the testing cycles.
+    * Actively participated in the release process of new software versions.
+
+**Junior Analyst-Programmer**
+
+* Prodentia Solutions inc. | Jan 2010 - Jun 2011
+    * Developed and maintained 4D software programs, enhancing functionality and user experience.
+    * Migrated comprehensive databases to 4D, ensuring seamless data integrity and performance.
