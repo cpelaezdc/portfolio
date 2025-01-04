@@ -14,16 +14,17 @@ Highly motivated and results-oriented Data Engineering professional with over 18
 
 | Project Name | Skills Used |
 |---|---|
-| **[canada-sales-data-engineering](https://github.com/cpelaezdc/canada-sales-data-engineering-project)** | Airflow • Python • Pandas • PosgreSQL • Docker |
+| **[canada-sales-data-engineering](https://github.com/cpelaezdc/canada-sales-data-engineering-project)** | Airflow • Python • Pandas • PosgreSQL • PowerBI • Docker |
 
 ### Skills
 
 * Programming Languages: Python, vbScript
 * Data Engineering Tools: Apache Nifi, Apache Airflow, Docker
-* Cloud Platforms: AWS, Azure
+* Cloud Platforms: AWS
 * Databases: PostgreSQL, MySQL, SQLServer, Oracle
 * Version Control: Git/GitHub
 * Data Formats: JSON
+* Data Visualization: PowerBI
 * Collaboration Tools: Confluence
 
 ### Professional History
