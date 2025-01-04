@@ -4,7 +4,7 @@
 
 * Email: cpelaezd@gmail.com
 * Phone: +1 (514) 445-4095
-* LinkedIn: [LinkedIn](www.linkedin.com/in/carlos-m-pelaez)
+* LinkedIn: [LinkedIn](https://www.linkedin.com/in/carlos-m-pelaez)
 
 ### Summary
 
