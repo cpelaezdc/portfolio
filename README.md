@@ -6,7 +6,9 @@
 
 ### Summary
 
+<p style="text-align: justify;">
 I am currently working towards a transition into Data Engineering. With over 18 years in the tech industry, my core competencies lie in application support, developing, and testing and automation to ensure product quality. As a professional with a strong background in Quality Assurance; my previous experiences has honed my analytical skills, attention to detail, and problem-solving abilities, which are essential for Data Engineering.
+</p>
 
 
 ### Projects
