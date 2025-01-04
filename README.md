@@ -4,11 +4,11 @@
 
 *  [canada-sales-data-engineering](https://github.com/cpelaezdc/canada-sales-data-engineering-project) - Airflow • Python • PosgreSQL
 
-**Summary**
+### Summary
 
 Highly motivated and results-oriented Data Engineering professional with over 18 years of experience in the tech industry. Proven ability to develop, test, and automate solutions to ensure product quality. Skilled in Python, Apache Nifi, Apache Airflow, Docker, SQL databases, AWS, Azure, Git/GitHub, JSON, Confluence, and vbScript.
 
-**Skills**
+### Skills
 
 * Programming Languages: Python, vbScript
 * Data Engineering Tools: Apache Nifi, Apache Airflow, Docker
@@ -18,7 +18,7 @@ Highly motivated and results-oriented Data Engineering professional with over 18
 * Data Formats: JSON
 * Collaboration Tools: Confluence
 
-**Professional History**
+### Professional History
 
 **Data Engineer (Internship)**
 
@@ -53,10 +53,10 @@ Highly motivated and results-oriented Data Engineering professional with over 18
     * Supported retail staff and customers by troubleshooting and resolving software-related issues.
     * Conducted comprehensive verification of software and data integrity for inventory management and retail systems, ensuring accuracy and reliability.
 
-**Education**
+### Education
 
-* AEC • Développeur en mégadonnées (Big Data) LEA.C0 (2024) - Bois-de-Boulogne College
-* AEC • Spécialiste en tests de logiciel (LEA.BM) (2012) - Bois-de-Boulogne College
-* AEC • Oracle Development Applications (LEA.6V) (2009) - LaSalle, Montréal College
-* Baccalauréat • Ingénieur de Systèmes (Comparative Evaluation MIFI  - Génie Informatique) (2001) - Medellin University (Colombia)
+* AEC • **Développeur en mégadonnées (Big Data) LEA.C0** (2024) - Bois-de-Boulogne College
+* AEC • **Spécialiste en tests de logiciel (LEA.BM)** (2012) - Bois-de-Boulogne College
+* AEC • **Oracle Development Applications (LEA.6V)** (2009) - LaSalle, Montréal College
+* Baccalauréat • **Systems Engineer** (Comparative Evaluation MIFI  - Génie Informatique) (2001) - Medellin University (Colombia)
 
