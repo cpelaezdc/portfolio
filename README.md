@@ -1,5 +1,11 @@
 ## Data Engineering
 
+**Contact**
+
+* Email: cpelaezd@gmail.com
+* Phone: +1 (514) 445-4095
+* LinkedIn: [LinkedIn](www.linkedin.com/in/carlos-m-pelaez)
+
 ### Summary
 
 Highly motivated and results-oriented Data Engineering professional with over 18 years of experience in the tech industry. Proven ability to develop, test, and automate solutions to ensure product quality. Skilled in Python, Apache Nifi, Apache Airflow, Docker, SQL databases, AWS, Azure, Git/GitHub, JSON, Confluence, and vbScript.
