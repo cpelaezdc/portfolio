@@ -1,12 +1,14 @@
 ## Data Engineering
 
-### Projects
-
-*  [canada-sales-data-engineering](https://github.com/cpelaezdc/canada-sales-data-engineering-project) - Airflow • Python • PosgreSQL
-
 ### Summary
 
 Highly motivated and results-oriented Data Engineering professional with over 18 years of experience in the tech industry. Proven ability to develop, test, and automate solutions to ensure product quality. Skilled in Python, Apache Nifi, Apache Airflow, Docker, SQL databases, AWS, Azure, Git/GitHub, JSON, Confluence, and vbScript.
+
+### Projects
+
+| Project Name | Skills Used |
+|---|---|
+| **[canada-sales-data-engineering](https://github.com/cpelaezdc/canada-sales-data-engineering-project)** | Airflow • Python • Pandas • PosgreSQL • Docker |
 
 ### Skills
 
@@ -55,8 +57,8 @@ Highly motivated and results-oriented Data Engineering professional with over 18
 
 ### Education
 
-* AEC • **Développeur en mégadonnées (Big Data) LEA.C0** (2024) - Bois-de-Boulogne College
-* AEC • **Spécialiste en tests de logiciel (LEA.BM)** (2012) - Bois-de-Boulogne College
-* AEC • **Oracle Development Applications (LEA.6V)** (2009) - LaSalle, Montréal College
-* Baccalauréat • **Systems Engineer** (Comparative Evaluation MIFI  - Génie Informatique) (2001) - Medellin University (Colombia)
+* AEC • Développeur en mégadonnées (Big Data) LEA.C0 (2024) - Bois-de-Boulogne College
+* AEC • Spécialiste en tests de logiciel (LEA.BM) (2012) - Bois-de-Boulogne College
+* AEC • Oracle Development Applications (LEA.6V) (2009) - LaSalle, Montréal College
+* Baccalauréat • Systems Engineer (Comparative Evaluation MIFI  - Génie Informatique) (2001) - Medellin University (Colombia)
 
