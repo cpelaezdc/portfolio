@@ -1,7 +1,7 @@
 ## Data Engineering
 
 **Contact**
-* ✉️ <a href="mailto:cpelaezd@gmail.com">cpelaezd@gmail.com</a> 
+* ✉️ <a href="mailto:cpelaezdj@gmail.com">cpelaezdj@gmail.com</a> 
 * 🔗 <a href="https://www.linkedin.com/in/carlos-m-pelaez">LinkedIn</a>
 
 ### Summary
