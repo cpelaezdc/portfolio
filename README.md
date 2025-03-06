@@ -1,4 +1,4 @@
-## Data Engineering
+## Big Data Developer
 
 **Contact**
 * ✉️ <a href="mailto:cpelaezdj@gmail.com">cpelaezdj@gmail.com</a> 
@@ -7,7 +7,13 @@
 ### Summary
 
 <p style="text-align: justify;">
-I am currently working towards a transition into Data Engineering. With over 18 years in the tech industry, my core competencies lie in application support, developing, and testing and automation to ensure product quality. As a professional with a strong background in Quality Assurance; my previous experiences has honed my analytical skills, attention to detail, and problem-solving abilities, which are essential for Data Engineering.
+* Transitioning into Data Engineering to leverage technical expertise and contribute to data-driven solutions.
+* Over 18 years of experience in the tech industry, specializing in application support, development, testing, and automation to ensure product quality.
+* Strong background in Quality Assurance (QA), with honed analytical skills, attention to detail, and problem-solving abilities.
+* Detail-oriented with a focus on data analysis to ensure accuracy and identify inconsistencies.
+* Possesses strong analytical skills, natural curiosity, and a dedication to continuous learning and knowledge growth.
+* Excellent communication and interpersonal skills, promoting a friendly, cooperative, and supportive workplace.
+* Languages: French (Fluent), English (Functional), Spanish (Native)
 </p>
 
 
@@ -71,8 +77,27 @@ I am currently working towards a transition into Data Engineering. With over 18 
 
 ### Education
 
-* AEC • Développeur en mégadonnées (Big Data) LEA.C0 (2024) - Bois-de-Boulogne College
-* AEC • Spécialiste en tests de logiciel (LEA.BM) (2012) - Bois-de-Boulogne College
-* AEC • Oracle Development Applications (LEA.6V) (2009) - LaSalle, Montréal College
-* Baccalauréat • Systems Engineer (Comparative Evaluation MIFI  - Génie Informatique) (2001) - Medellin University (Colombia)
+* AEC • Big Data Developer LEA.C0 (2024)
+   * Bois-de-Boulogne College
+* AEC • Software Testing Specialist (LEA.BM) (2012)
+   * Bois-de-Boulogne College
+* AEC • Oracle Development Applications (LEA.6V) (2009)
+   * LaSalle, Montréal College
+* Bachelors • Systems Engineer (MIFI Comparative Evaluation - Génie Informatique - 2008) (2001)
+   * Medellin University (Colombia)
 
+### Professional Development
+* English course, Intermediate level 4. 2025
+* Udemy training courses on data engineering related tools. 2025
+
+### Achievements
+* Developed a C# tool to update test statuses and add comments, facilitating tracking of specific tests. 2019
+* Developed a Python framework with libraries to automate interface testing, providing an alternative to the existing tool which required expensive licenses. 2023
+* Created a centralized knowledge base repository in Confluence with relevant information to assist the rest of the QA team. 2024
+
+### Interests
+* Cinema & Theatre: Various film genres, Broadway productions.
+* Walking & Physical Training: Daily walks and regular workouts.
+* Puzzles: Solving different types of puzzles.
+* Piano: Playing the piano occasionally.
+* Travel: Exploring new countries and cultures.
