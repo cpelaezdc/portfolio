@@ -41,7 +41,7 @@
 
 **Data Engineer (Internship)**
 
-* YULCOM Technologies | Oct 2024 - Dec 2024
+* YULCOM Technologies • Oct 2024 - Dec 2024
     * Developed comprehensive ETL solutions utilizing Apache NiFi.
     * Designed and implemented data pipelines to ingest, transform, and load diverse data sources (JSON, databases) into target systems, ensuring data quality and consistency.
     * Worked extensively with PostgreSQL and MySQL databases.
@@ -50,7 +50,7 @@
 
 **Senior Quality Control Analyst**
 
-* Eaton Corporation | Oct 2012 - Sep 2024
+* Eaton Corporation • Oct 2012 - Sep 2024
     * Developed a new testing framework in Python for frontend and backend software testing.
     * Developed and maintained the automated testing framework using TestComplete.
     * Reported and documented software errors through rigorous manual testing.
@@ -60,13 +60,13 @@
 
 **Junior Analyst-Programmer**
 
-* Prodentia Solutions inc. | Jan 2010 - Jun 2011
+* Prodentia Solutions inc. • Jan 2010 - Jun 2011
     * Developed and maintained 4D software programs, enhancing functionality and user experience.
     * Migrated comprehensive databases to 4D, ensuring seamless data integrity and performance.
 
 **Software Support Specialist**
 
-* Soluciones Fourgen S.A | Nov 2002 - Apr 2007
+* Soluciones Fourgen S.A • Nov 2002 - Apr 2007
     * Identified and fixed data integrity problems within the Informix database, ensuring data accuracy and reliability.
     * Conducted thorough testing and analysis of point-of-sale (POS) systems software, ensuring optimal functionality and reliability.
     * Supported retail staff and customers by troubleshooting and resolving software-related issues.
