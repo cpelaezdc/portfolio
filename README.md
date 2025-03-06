@@ -6,7 +6,6 @@
 
 ### Summary
 
-<p style="text-align: justify;">
 * Transitioning into Data Engineering to leverage technical expertise and contribute to data-driven solutions.
 * Over 18 years of experience in the tech industry, specializing in application support, development, testing, and automation to ensure product quality.
 * Strong background in Quality Assurance (QA), with honed analytical skills, attention to detail, and problem-solving abilities.
@@ -14,8 +13,6 @@
 * Possesses strong analytical skills, natural curiosity, and a dedication to continuous learning and knowledge growth.
 * Excellent communication and interpersonal skills, promoting a friendly, cooperative, and supportive workplace.
 * Languages: French (Fluent), English (Functional), Spanish (Native)
-</p>
-
 
 ### Projects
 
@@ -26,14 +23,14 @@
 
 ### Skills
 
-* Programming Languages: Python, vbScript
-* Data Engineering Tools: Apache Nifi, Apache Airflow, Docker
-* Cloud Platforms: AWS
-* Databases: PostgreSQL, MySQL, SQLServer, Oracle
-* Version Control: Git/GitHub
-* Data Formats: JSON
-* Data Visualization: PowerBI
-* Collaboration Tools: Confluence
+* **Programming Languages**: Python, vbScript
+* **Data Engineering Tools**: Apache Nifi, Apache Airflow, Docker
+* **Cloud Platforms**: AWS
+* **Databases**: PostgreSQL, MySQL, SQLServer, Oracle
+* **Version Control**: Git/GitHub
+* **Data Formats**: JSON
+* **Data Visualization**: PowerBI
+* **Collaboration Tools**: Confluence
 
 ### Certifications & Training
 
@@ -78,13 +75,13 @@
 ### Education
 
 * AEC • Big Data Developer LEA.C0 (2024)
-   * Bois-de-Boulogne College
+    * Bois-de-Boulogne College
 * AEC • Software Testing Specialist (LEA.BM) (2012)
-   * Bois-de-Boulogne College
+    * Bois-de-Boulogne College
 * AEC • Oracle Development Applications (LEA.6V) (2009)
-   * LaSalle, Montréal College
+    * LaSalle, Montréal College
 * Bachelors • Systems Engineer (MIFI Comparative Evaluation - Génie Informatique - 2008) (2001)
-   * Medellin University (Colombia)
+    * Medellin University (Colombia)
 
 ### Professional Development
 * English course, Intermediate level 4. 2025
