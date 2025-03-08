@@ -25,7 +25,7 @@
 ### Skills
 
 * **Programming Languages**: Python, vbScript
-* **Data Engineering Tools**: Apache Nifi, Apache Airflow, Docker
+* **Data Engineering Tools**: Apache Nifi, Apache Airflow, Apache Kafka Docker
 * **Cloud Platforms**: AWS
 * **Databases**: PostgreSQL, MySQL, SQLServer, Oracle
 * **Version Control**: Git/GitHub
