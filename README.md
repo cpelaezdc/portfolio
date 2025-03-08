@@ -18,9 +18,9 @@
 
 | Project Name | Skills Used |
 |---|---|
-| **[Canada Sales Manufacturing](https://cpelaezdc.github.io/canada-sales-manufacturing/)** | CSV • Airflow • Python • Pandas • PosgreSQL • PowerBI • Docker |
-| **[Healthcare Provider Costs](https://cpelaezdc.github.io/Healthcare-Provider-Costs/)** | APIs • NIFI • PosgreSQL • PowerBI • Docker |
-| **[Crypto Stream Tracker](https://cpelaezdc.github.io/CryptoStreamTracker/)** | APIs • KAFKA • CSV • PowerBI • Docker |
+| **[Canada Sales Manufacturing](https://cpelaezdc.github.io/canada-sales-manufacturing/)** | **Airflow** • CSV • Python • Pandas • PosgreSQL • PowerBI • Docker |
+| **[Healthcare Provider Costs](https://cpelaezdc.github.io/Healthcare-Provider-Costs/)** | **NIFI** • APIs • PosgreSQL • PowerBI • Docker |
+| **[Crypto Stream Tracker](https://cpelaezdc.github.io/CryptoStreamTracker/)** | **KAFKA** • APIs • CSV • PowerBI • Docker |
 
 ### Skills
 
