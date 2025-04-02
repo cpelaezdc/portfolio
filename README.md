@@ -1,4 +1,4 @@
-## Big Data Developer
+## QA Specialist | Test Automation | Manual & Automated Testing | ETL & SQL | Data Quality & Validation
 
 **Contact**
 * ✉️ <a href="mailto:cpelaezdj@gmail.com">cpelaezdj@gmail.com</a> 
@@ -6,15 +6,14 @@
 
 ### Summary
 
-* Transitioning into Data Engineering to leverage technical expertise and contribute to data-driven solutions.
 * Over 18 years of experience in the tech industry, specializing in application support, development, testing, and automation to ensure product quality.
+* Knowledge in Data Engineering (ETL) development to automate data processing and ensure data integrity.
 * Strong background in Quality Assurance (QA), with honed analytical skills, attention to detail, and problem-solving abilities.
 * Detail-oriented with a focus on data analysis to ensure accuracy and identify inconsistencies.
 * Possesses strong analytical skills, natural curiosity, and a dedication to continuous learning and knowledge growth.
 * Excellent communication and interpersonal skills, promoting a friendly, cooperative, and supportive workplace.
-* Languages: French (Fluent), English (Functional), Spanish (Native)
 
-### Projects
+### ETL Projects
 
 | Project Name | Skills Used |
 |---|---|
